@@ -16,7 +16,7 @@ And now i'm going to add some content.
 `and some content`
 
 What about this
-<span style="color:green"> so this is </span>
+<p style="color:green"> so this is </p>
 
 
 
