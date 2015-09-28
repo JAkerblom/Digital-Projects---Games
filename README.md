@@ -8,3 +8,18 @@ Game programming, micro-processor programming, etc.
 ```{r, echo=FALSE}
 x <- FALSE;
 ```
+
+And now i'm going to add some content.
+* wohoo!!
+* I'm the kingof the world!!
+
+`and some content`
+
+What about this
+<span style="color:green"> so this is </span>
+
+
+
+
+
+
