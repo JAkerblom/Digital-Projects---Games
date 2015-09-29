@@ -1,11 +1,3 @@
----
-title: "R - RMIT - Scripting"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 4
-    theme: united
----
 
 ## Loops and conditions
 
